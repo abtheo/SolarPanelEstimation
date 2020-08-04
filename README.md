@@ -9,3 +9,6 @@ Predicting the hourly power output of a building's solar panels, based on the gr
 
 
 The data readings have been anonymised and have had random noise added to protect privacy. Further, some critical sections of code are redacted due to commercialization concerns.
+
+-------------------
+![Prediction Example](https://github.com/abtheo/SolarPanelEstimation/blob/master/prediction_example.png)
