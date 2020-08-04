@@ -2,7 +2,7 @@
 
 -------------------
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/abtheo/SolarPanelEstimation/blob/master/SolarPanelPrediction.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abtheo/SolarPanelEstimation/blob/master/SolarPanelPrediction.ipynb)
 
 
 Predicting the hourly power output of a building's solar panels, based on the grid delivery and return.  Also includes weather data courtesy of (courtesy of the Koninklijk Nederlands Meteorologisch Instituut).
